@@ -1,4 +1,4 @@
-# lazy-json
+# Lazy JSON
 
 Lazy JSON skimmer-parser. Ideal for cases where a small part of a large JSON document is accessed.
 Super-low memory footprint. Speed depends partly on the structure of the document and the offset

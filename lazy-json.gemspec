@@ -2,7 +2,7 @@ Gem::Specification.new do |s|
   s.name        = 'lazy-json'
   s.version     = '1.0.0'
   s.date        = '2015-09-03'
-  s.summary     = "lazy-json"
+  s.summary     = "Lazy JSON"
   s.description = "Lazy JSON skimmer-parser"
   s.authors     = ["Paul McReynolds"]
   s.email       = 'paul@conspire.com'
