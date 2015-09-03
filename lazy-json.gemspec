@@ -6,9 +6,9 @@ Gem::Specification.new do |s|
   s.description = "Lazy JSON skimmer-parser"
   s.authors     = ["Paul McReynolds"]
   s.email       = 'paul@conspire.com'
-  s.files       = ["lib/lazy_json.rb"]
+  s.files       = ["lib/lazy-json.rb"]
   s.homepage    = 'https://github.com/conspire-org/lazy-json'
   s.license     = 'MIT'
-  s.add_runtime_dependency 'oj'
-  s.add_development_dependency 'rspec'
+  s.add_runtime_dependency 'oj', '~>2'
+  s.add_development_dependency 'rspec', '~>3'
 end

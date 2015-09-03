@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     lazy-json (1.0.0)
-      oj
+      oj (~> 2)
 
 GEM
   remote: https://rubygems.org/
@@ -28,7 +28,7 @@ PLATFORMS
 
 DEPENDENCIES
   lazy-json!
-  rspec
+  rspec (~> 3)
 
 BUNDLED WITH
    1.10.6
